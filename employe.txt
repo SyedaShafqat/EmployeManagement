@@ -1,0 +1,5 @@
+Employee ID: 111
+Name: ali
+Position: hr
+Salary: 300000
+
